@@ -1,1 +1,1 @@
-ini perubahan dari branch feature
+ini perubahan dari branch feature dan feature_2
