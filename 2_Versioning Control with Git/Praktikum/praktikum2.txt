@@ -1,0 +1,10 @@
+Mengerjakan task section 2
+a. membuat repository baru di github
+b. memasukkan project, dan project sebagai master
+c. membuat branch baru sebagai develop
+d. membuat branch ketiga sebagai penambahan fitur, pada branch tersebut melakukan penambahan fitur. lakukan merge pada branch ketiga kedalam branch develop
+e. membuat branch keempat sebagai penambahan fitur, pada branch tersebut melakukan penambahan fitur. lakukan merge pada branch keempat kedalam branch develop
+ss hasil pada insights=>network
+
+
+
