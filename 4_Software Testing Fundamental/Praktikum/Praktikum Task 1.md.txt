@@ -1,0 +1,7 @@
+MUTATION TEST
+Sebuah program dikatakan “baik” jika mutation score yang didapatkan bernilai 100%. Sedangkan pada mutation score yang didapatkan diatas adalah 66%. Untuk mendapatkan mutasi score senilai 100%, maka langkah yang perlu kita lakukan adalah menambahkan test case untuk program tersebut. Jika test case tersebut terhitung mendapatkan nilai yang berbeda dari expected outcome, maka mutant tersebut dinyatakan terbunuh. Setelah semua mutant terbunuh, maka akan didapatkan mutation score senilai 100%.
+
+
+1. pada tutorial entity dengan number of classes sebesar 67 % yang berarti masih banyak kekurangan pada bagian line coverage karena proses masih 6/9. dan hasil mutation coverage adalah 67% dari proses yang masih 2/3 berarti perlu menambahkan test case untuk program tersebut
+
+2. 1. pada tutorial service dengan number of classes sebesar 100 % dari proses 6/6 dan hasil mutation coverage adalah 75% dari proses 3/4 berarti tetap perlu menambahkan test case untuk program tersebut walaupun tutorial service lebih unggul dibanding tutorial entity, namun keduanya tetap perlu ditambah test case agar mendapatkan mutation score senilai 100%

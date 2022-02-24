@@ -1,0 +1,5 @@
+Terdapat sebuah class dengan tipe public bernama CalculatorServiceImpl. Memiliki 2 buah fungsi yang bernama fungsi add dan fungsi subtract.
+
+Fungsi add memiliki 2 buah parameter yaitu parameter variabel a dan variabel b. Dan kedua parameter tersebut tipe datanya yaitu integer, apabila kedua parameter tersebut di isi oleh sebuah angka, maka variabel a dan variabel b angkanya akan dijumlahkan dan dimasukkan kedalam variabel c, dan fungsi add tersebut akan mengeluarkan nilai balik dari variabel c,  kondisi hasil nilai balik yang dihasilkan fungsi add tersebut memiliki tipe data integer.
+
+Fungsi subtract memiliki 2 buah parameter yaitu parameter variabel a dan variabel b. Dan kedua parameter tersebut tipe datanya yaitu integer, apabila kedua parameter tersebut di isi oleh sebuah angka, maka variabel a angkanya akan dikurangi oleh variabel b dan hasil pengurangan tersebut akan dimasukkan kedalam variabel c, dan fungsi subtract tersebut akan mengeluarkan nilai balik dari variabel c,  kondisi hasil nilai balik yang dihasilkan fungsi subtract tersebut memiliki tipe data integer.

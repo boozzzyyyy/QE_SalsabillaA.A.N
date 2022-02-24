@@ -1,0 +1,30 @@
+RESUME
+Software Testing Fundamental
+
+Pengujian dapat didefinisikan sebagai - Proses menganalisis item perangkat lunak untuk mendeteksi perbedaan antara kondisi yang ada dan yang diperlukan (yaitu cacat/kesalahan/bug) dan untuk mengevaluasi fitur item pada software
+
+Pegujian sebuah software merupakan hal penting karena bug software bisa membuat pengeluaran menjadi lebih mahal atau bahkan berbahaya. bug software berpotensi menyebabkan kerugian moneter dan manusia. Beberapa platform untuk pengujian yaitu
+a.	API
+b.	WEB
+c.	Mobile
+d.	Dekstop
+
+Jenis pengujian software dibagi menjadi 3 yaitu:
+a.	Functional Testing
+Functional testing lebih berfokus pada hasil eksekusi dari proses setiap fitur di aplikasi sudah bekerja dengan baik berdasarkan kebutuhan klien. Functional testing tidak menitikberatkan pada source code tetapi lebih kepada bisnis proses yang akan berjalan. Sehingga, sangat mudah untuk melakukan pengujian ini secara manual atau secara otomatis menggunakan automated testing.
+Functional testing dilakukan sebelum melakukan non-functional testing. Functional testing ini sering menggunakan teknik black-box testing.
+Contoh: Berhasil melakukan login ketika inputan data valid.
+
+b.	Non-Functional Testing
+Non-functional testing merupakan pengujian yang melakukan verifikasi pada kebutuhan non-fungsional seperti performa dan kegunaan sebuah aplikasi. Non-functional testing lebih kepada meningkatkan kualitas sebuah aplikasi. Kualitas yang dimaksud yaitu bergantung pada Waktu, Akurasi, Stabilitas, Kebenaran dan Durability di berbagai macam keadaan.
+Non-functional testing sulit untuk dilakukan secara manual namun dapat dilakukan dengan bantuan aplikasi automated testing. Non-functional testing menggunakan teknik white-box testing.
+Contoh: Loading halaman utama/dashboard hanya 5 detik setelah berhasil login.
+
+c.	Software maintenance adalah aktivitas perubahan atau modifikasi perangkat lunak setelah perangkat lunak digunakan (after the delivery of software).
+
+Secara umum ada empat tingkat pengujian software yaitu: 
+1.	Unit Testing: memeriksa apakah komponen perangkat lunak memenuhi fungsionalitas atau tidak.
+2.	Pengujian Integrasi : memeriksa aliran data dari satu modul ke modul lainnya.
+3.	Pengujian Sistem : mengevaluasi kebutuhan fungsional dan non-fungsional untuk pengujian.
+4.	Pengujian Penerimaan : memeriksa persyaratan spesifikasi atau kontrak terpenuhi sesuai pengirimannya.
+
