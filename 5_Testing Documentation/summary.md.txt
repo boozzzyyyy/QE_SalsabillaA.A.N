@@ -1,0 +1,82 @@
+RESUME
+Testing Documentation
+
+*Test Scenario merupakan sebuah dokumen yang berisi sekumpulan langkah-langkah sistematis yang disusun oleh seorang Quality Assurance / tester agar sistem yang akan dites dapat memenuhi ketentuan yang diinginkan oleh user, memenuhi standar tertentu, serta dapat berfungsi dengan baik. dan juga merupakan tingkatan tertinggi dari sebuah test case
+
+*Tujuan dibentuknya Test Scenario yaitu:
+a. memudahkan tester dan developer untuk melakukan testing
+b. menjadi dasar bagi pengembangan project
+c. Sebagai dasar Client / Product Owner menyesuaikan dengan System Requirement.
+
+*Tools yang Bisa Digunakan untuk Membuat Test Scenario
+a. Google Spreadsheet
+b. TestRail
+c. Testlink
+d. Qase.io
+
+*Standartnya dalam pembuatan Test Scenario harus ada beberapa komponen seperti:
+1.Test case id
+2.Feature (what to be verified)
+3.User Story.
+4.Data test (Variables and values)
+5.Steps to be executed
+6.Expected result
+7.Result : pass/fail
+8.Actual result
+9.Comments
+
+Kriteria pembuatan Test Scenario yang baik:
+1. Inline with System Requirement → System Requirement is the key, sehingga kita dapat menyusun scenario test sesuai flow yang telah ditentukan.
+2. Give Context → User bersikap seolah-olah perlu melakukan hal tersebut.
+3. Give Detail → Memberikan rincian secara spesifik hal-hal yang perlu diketahui oleh user.
+4. Crystals clear, easy to understand → Berikan penjelasan secara detail terkait test step dan spesifikasi expected results, sehingga akan memudahkan kita dalam melakukan proses testing.
+5. Complete → User dapat melakukan apapun sesuai dengan system requirement yang telah diberikan.
+6. Coherent → Antara scenario satu dengan yang lain, antara step satu dengan yang lain saling berkesinambungan.
+7. Proofs → Lengkapi dengan hasil yang didapatkan dari scenario yang telah dilakukan 
+(Result : pass/fail).
+8. Consistent → penggunaan kata haruslah secara konsisten, jika ingin menggunakan kata field email maka kata pada test step selanjutnya harus sesuai dengan kata yang ditulis di awal.
+9. End user mind, Don’t assume → contohnya, dalam pembuatan notifikasi, kita harus memastikan kalau client menginginkan notifikasi berupa pop up message atau alert message.
+10. Don’t forget cover negative test → Tidak semua step yang dilakukan dalam kondisi positif, think outside of the box dan tulis semua kemungkinan yang ada.
+11. Update → Perubahan itu pasti, catat perubahannya dan perbarui versi pembuatannya.
+
+Examples:
+a. check login funtionality
+b. check forgot email funtionality
+c. check create new account funtionality
+
+Test Case atau juga bisa disebut dengan uji kasus adalah suatu rancangan atau rangkaian mengenai tindakan yang dilakukan tester untuk melakukan verifikasi terhadap fitur atau fungsi tertentu dari sebuah perangkat lunak. 
+
+Pembuatan test case bertujuan untuk memastikan bahwa suatu sistem dapat dijalankan dengan baik sesuai dengan kebutuhan awal serta mampu memberikan respon ketika terdapat suatu masukan yang tidak valid. 
+
+Test Case memiliki beberapa komponen yaitu:
+a. test case id, 
+b. test case description, 
+c. precondition, 
+d. test step, 
+e. expected result,
+f. actual result, 
+g. serta status.
+
+Test Case bertindak sebagai titik awal dalam pelaksanaan pengujian sebuah sistem. Dari test case ini biasanya diketahui apakah fitur sistem berjalan normal atau tidak.
+
+Beberapa hal yang perlu diperhatikan dalam membuat test case yaitu:
+1. Test Case dibuat Sederhana dan Transparan
+2. Test Case dibuat dengan End User in Mind
+3. Hindari Pengulangan Kasus Uji
+4. Jangan Berasumsi
+5. Pastikan bahwa Pengujian Sudah Mencakup Semuanya Dalam membuat pengujian,
+6. Test Case Harus Dapat Diidentifikasi
+7. Menerapkan Teknik Pengujian
+	a. Boundary Value Analysis (BVA): Teknik ini mendefinisikan pengujian batas untuk rentang nilai tertentu.
+	b. Equivalen Partition (EP): Teknik ini membagi rentang menjadi bagian atau kelompok yang sama yang cenderung memiliki perilaku sama.
+	c. State Transition Technique: Teknik ini digunakan ketika perilaku perangkat lunak berubah dari satu negara ke negara lain setelah tindakan tertentu.
+	d. Error Guessing Technique: Teknik ini digunakan untuk mengantisipasi kesalahan yang mungkin terjadi saat proses pengujian. Teknik ini bukan metode formal dan mengambil keuntungan dari penguji dengan aplikasi.
+8. Repeatable and Self-standing
+9. Peer Review
+
+Examples:
+-Test Scenario : check the login funtionality
+-Test Case 1: enter valid email and valid password
+-Test Case 2: enter invalid email and valid password
+-Test Case 3: enter valid email and invalid password
+-Test Case 4: enter invalid email and invalid password
