@@ -20,3 +20,14 @@ Melalui roadmaps, team leader dapat melihat gambaran proyek secara utuh sehingga
 Dukungan untuk connect dengan  berbagai aplikasi tentu dapat mempermudah proses pengerjaan suatu project. Pasalnya suatu project membutuhkan satu atau lebih aplikasi agar hasilnya maksimal, dengan fitur ini, maka tugas yang diberikan di Jira akan lebih intuitif dan mudah
 5. Pelaporan
 Laporan atau reporting merupakan fitur penting dalam aplikasi project management.Tak hanya penting setelah project selesai dikerjakan, tetapi juga saat prosesnya. Jira memberikan fitur pelaporan dengan visualisasi menarik, sehingga mempermudah pemangku kebijakan mengetahui hasilnya, serta mempermudah team leader membuat kebijakan ke depan terhadap pengerjaan suatu project.
+
+PELAKSANAAN
+pada praktikum project saya membuat 1 epic/project yang berisi 3 story 
+dimana story tersebut berisi beberapa bugs
+ 1. story mengenai login on facebook
+ 2. story mengenai transaction on shopee
+ 3. story mengenai show notif on bukalapak
+
+ semua bugs dan story yang sudah dibuat, satu sama lain harus terkait link nya.
+
+ setelah semua selesai saya screenshots history summary, description, dan historynya.
