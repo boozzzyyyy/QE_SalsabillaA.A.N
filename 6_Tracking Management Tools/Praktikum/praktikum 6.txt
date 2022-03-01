@@ -1,0 +1,17 @@
+Task Theory
+
+1. Apa yang dimaksud dengan Bugs?
+> Bugs merupakan jenis issue yang biasa digunakan jika terjadi penemuan bug saat proses testing oleh software tester
+2. Apa yang dimaksud dengan "TO DO" pada JIRA?
+> panel ini berisi story yang akan dikerjakan dan sudah diprioritaskan saat planning. story yang ditempatkan paling atas menandakan bahwa story tersebut merupakan prioritas utama.
+3. Apa yang dimaksud dengan 
+"IN PROGRES" pada JIRA?
+>Panel ini berisi story yang sedang dikerjakan oleh Software Engineer
+4. Apa perbedaan antara "Deliver" dengan "Finish"?
+>FINISH: berisikan story yang TELAH SELESAI dikerjakan oleh Software Engineer namun BELUM SIAP untuk tahap testing.
+>DELIVER: panel ini berisikan story yang SIAP MEMASUKI tahap testing oleh para Quality Engineer. 
+5. Apa yang dimaksud dengan 
+"EPIC" pada JIRA? epic merupakan fitur pada story unruk melakukan pengelompokkan task
+6. Apa yang harus dilakukan saat menggunakan tools JIRA jika kita menemukan bugs pada fitur yang sudah dilakukan testing?
+>membuat issue bertipe bugs saat ditemukan ada yang tidak sesuai dengan criteria testing,
+>Memindahkan fitur yang berkaitan dengan bugs ke kolom "in progress"

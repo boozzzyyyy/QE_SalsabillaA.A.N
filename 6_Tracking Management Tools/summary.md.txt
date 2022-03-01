@@ -1,0 +1,22 @@
+RESUME
+Tracking Management Tools
+
+Tracking Management Tools adalah sebuah software yang digunakan dalam mengelola sebuah project atau development software agar bisa berjalan secara efisien dan efektif.
+Contoh: Jira
+
+*JIRA 
+Jira adalah alat bantu yang bertujuan untuk pelacakan bugs, pelacak issue, dan management proyek
+
+Beberapa fitur Unggulan Jira yaitu:
+1. Fitur Task Assignment
+Pada Jira sendiri, fitur task assignment dilengkapi dengan antarmuka mengenai workflow yang dijalankan.
+Hal ini membuat anggota tim, bahkan tim lain dapat mengetahui sejauh mana progres dari suatu project tersebut. 
+2. Scrum dan Kanban boards
+Fitur Scrum dan Kanban boards menjadi salah satu keunggulan dari JIRA karena dengan fitur ini, suatu tim dapat lebih mudah melakukan brainstorming. Fitur ini cukup intuitif sehingga tiap anggota tim dapat saling berkolaborasi untuk menentukan prioritas kerjanya, dan anggota tim juga dapat mengetahui berbagai masalah dari anggota lainnya yang diperoleh selama berproses. 
+3. Roadmaps
+Tak hanya apat mengetahui berbagai masalah dari anggota lainnya yang diperoleh selama berproses, fitur roadmaps pada JIRA dapat membuat anggota tim mengetahui gambaran ke depan, Dengan adanya roadmaps, anggota tim akan lebih fokus terhadap apa yang dikerjakannya. Bahkan, team leader dapat memiliki kontrol penuh dengan berbagai pekerjaan yang dilakukan.
+Melalui roadmaps, team leader dapat melihat gambaran proyek secara utuh sehingga mempermudah pengambilan keputusan.
+4. Konektivitas dengan aplikasi lain
+Dukungan untuk connect dengan  berbagai aplikasi tentu dapat mempermudah proses pengerjaan suatu project. Pasalnya suatu project membutuhkan satu atau lebih aplikasi agar hasilnya maksimal, dengan fitur ini, maka tugas yang diberikan di Jira akan lebih intuitif dan mudah
+5. Pelaporan
+Laporan atau reporting merupakan fitur penting dalam aplikasi project management.Tak hanya penting setelah project selesai dikerjakan, tetapi juga saat prosesnya. Jira memberikan fitur pelaporan dengan visualisasi menarik, sehingga mempermudah pemangku kebijakan mengetahui hasilnya, serta mempermudah team leader membuat kebijakan ke depan terhadap pengerjaan suatu project.
