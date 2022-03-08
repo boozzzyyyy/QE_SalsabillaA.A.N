@@ -1,0 +1,37 @@
+RESUME
+Test Case Management Tools
+
+Test Case Management Tools adalah situs atau software yang digunakan oleh software tester untuk menyimpan informasi terkait bagaimana pengujian produk harus dilakukan, perencanaan kegiatan pengujian serta dokumen terkait pelaporan status kegiatan penjaminan kualitas produk. Umumnya setiap penyedia tools atau software memiliki keunggulan fitur yang berbeda — beda. 
+
+Milestone adalah salah satu cara terbaik untuk melacal progress dan timeline suatu project. Beberapa tujuan mileston dalam sebuah proyek, di antaranya:
+• Sebagai tanda dimulainya sebuah tahapan penting dalam sebuah proyek atau pekerjaan.
+• Sebagai peringatan untuk deadline dalam proyek.
+• Sebagai pusat atau pos sinyal berakhirnya sebuah tahapan penting dalam pekerjaan.
+
+beberapa contoh test case management tools adalah:
+1. Test Link
+2. PractiTest
+3. TestRail
+4. QTest
+
+cara menggunakan testrail:
+1. click link https://www.gurock.com/testrail
+2. click Try TestRail di pojok kanan atas
+3. selesaikan Trial Detail sampai masuk ke halaman
+4. Click Add Project.
+5. Input Nama Project sesuai yang kalian mau, saran si membuat nama project harus jelas
+6. Click Add Project. Nanti bakalan masuk ke halaman Overview.
+7. Click Test Cases di menu bagian atas.
+8. Masuk ke halaman Test Case, Click Add Section, setelah menambahkan section kemudian akan masuk ke halaman Test Cases
+9. Click Add Case yang berada di sebelah menu edit. Kemudian kalian :
+Input Title > digunakan untuk memberi nama case kalian. Misal case ini untuk validasi login, jadi aku kasih title valid login.
+Select Type > Type dipilih sesuai case yang sedang kalian buat.
+Select Priority >Untuk Priority kalian harus pilih sesuai dengan case yang sedang kalian buat apakah case ini diperlukan priority Critical, atau High, atau Medium, atau Low.
+Input Estimate > Estimate adalah berapa lama waktu yang kita butuhkan untuk testing case tersebut.
+Input References > References aku inputkan versi Web tersebut, karena setiap rillis versi nya berbeda.
+Input Preconditions > kondisi apa yang diperlukan untuk case ini.
+Input Steps > step nya apa aja yang diperlukan untuk case ini.
+Input Expected Result > Expected kalian untuk case ini, kalau Expected aku success dan masuk ke halaman home.
+10. Jika sudah di terisi semua kemuadian kalian click Add Test Case.
+11.Click Add Test Run
+
