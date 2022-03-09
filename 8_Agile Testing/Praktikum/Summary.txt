@@ -1,0 +1,37 @@
+1. Peran QE pada SDLC berada pada tahap keempat setelah menyelesaikan proses pembuatan program, maka akan masuk pada tahap pengujian atau testing. Testing disini lebih pada pengujian program yang dibuat untuk mencari berbagai kesalahan seperti bug, error ataupun permasalahan lain yang dapat muncul dari software tersebut.
+Pada beberapa perusahaan besar ataupun startup, biasanya menempatkan tim khusus untuk menangani tahap pengujian. QA/QE merupakan posisi untuk menangani pengujian software. Pengujian dapat dilakukan dengan beberapa metode, 
+tahap selanjutnya merupakan tahap Deployment dan maintenance, QA/QE dapat berperan untuk memastikan produk sudah terverif sesuai prosedur
+
+2. tantangan yang dialami dalam penerapan Agile. Hasil temuan penelitian tersebut adalah sebagai berikut:
+
+(-)Budaya atau nilai perusahaan yang tidak sesuai dengan konsep Agile.
+(-)Kurang berpengalaman dalam menerapkan Agile.
+(-)Kurangnya dukungan dari pihak manajemen.
+(-)Organisasi secara umum menolak perubahan.
+(-)Kurangnya pemilik bisnis atau produk.
+(-)Training Agile yang tidak mencukupi.
+(-)Pengembangan yang masih bersifat tradisional.
+(-)Kurang konsisten dalam menerapkan Agile di organisasi.
+(-)Alat, data, dan pengukuran yang terpotong-potong.
+(-)Kolaborasi yang tidak efektif.
+(-)Kepatuhan terhadap peraturan dan pemerintah.
+
+Dari sebelas faktor tersebut, ada dua faktor yang memiliki porsi paling besar dalam menghambat penerapan Agile yakni budaya perusahaan yang tidak sesuai dengan konsep Agile dan kekurangan keterampilan atau pengalaman dalam menerapkan Agile.
+
+mengubah struktur dan cara bekerja untuk orang banyak pasti membutuhkan waktu dan butuh percobaan untuk menemukan cara yang tepat bagi perusahaan tertentu.
+
+Terdapat lima point dalam testing manifesto, antara lain:
+a. Testing throughout over testing at the end.
+seorang tester akan kewalahan di akhir proses development karena dia harus melakukan full test aplikasi yang belum pernah dia test sebelumnya. Dalam testing manifesto tester dianjurkan untuk melakukan testing secara berkala dengan proses development, jadi tidak terpisah sendiri melainkan jadi satu dengan proses development.
+
+b. Preventing bugs over finding bugs.
+untuk mencegah munculnya bug daripada menemukan bug. Mari kita mulai dengan mengetahui bagaimana bug itu muncul. Ada beberapa faktor yang dapat memunculkan bug, diantaranya adalah requirement yang kurang lengkap atau kurang detail. Untuk mengurangi kemunculan bug alangkah baiknya kita tulis dulu seperti apa requirement dari fitur yang akan kita kerjakan sebelum memulai menulis code. Semua itu dapat dilakukan dengan berkomunikasi dengan sesama anggota team untuk benar-benar membangun aplikasi yang berkualitas.
+
+c. Testing understanding over checking functionality. (Don't be a checker, be a tester)
+Sebagai seorang tester, tidaklah cukup jika hanya melakukan testing tanpa adanya improvement / masukan terhadap apa yang test. Jika seorang tester hanya melakukan pengecekan fungsional dan tidak memahami seperti apa kebutuhan user yang akan menggunakan aplikasi maka peran seorang tester akan dipertanyakan ketika semua test sudah otomatis. Disinilah peran tester sebenarnya dibutuhkan, bagaimana dia bisa memberikan feedback terhadap apa yang sedang di test.
+
+d. Building the system OVER breaking the system.
+Di dalam proses testing, seorang QA akan melakukan positif test dan negative test. Mungkin ada beberapa dari kita yang merasa senang jika menemukan bug. Tidak bisa dipungkiri kalau seorang QA mampu memiliki pikiran jahat terkait fitur apa aja yang bisa ia temukan bugnya. Meskipun hal tersebut memiliki sisi menariknya, namun kita harus mengingat tujuan utama dari proses development itu sendiri, yaitu untuk menciptakan product yang berkualitas. Untuk itu seorang QA seharusnya memposisikan dirinya sebagai user, dan menilai product dari prespektif user sehingga dapat memberikan masukan terhadap developer.
+
+e. Team responsibility for quality OVER tester responsibility.
+Mengingat tanggung jawab seluruh tim untuk kualitas adalah prinsip dasar Agile. Beban dari kualitas product yang dibangun tidak semestinya dibebankan pada salah satu anggota saja. Misalnya ada bug yang baru ditemukan saat product sudah launcing, tidak semerta-merta tanggung jawab itu dibebankan pada seorang QA yang mungkin tidak teliti atas bug tersebut, bukan juga dengan membebankan developer. Namun setiap anggota tim bertanggung jawab berlandaskan kepemilikan bersama atas product yang dibangun.

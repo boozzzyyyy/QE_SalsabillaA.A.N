@@ -1,0 +1,63 @@
+RESUME
+AGILE TESTING
+
+SDLC atau Systems Life Cycle, dalam rekayasa sistem dan rekayasa perangkat lunak, adalah proses pembuatan dan pengubahan sistem serta model dan metodologi yang digunakan untuk mengembangkan sistem-sistem tersebut.
+
+Metode SDLC mampu menampilkan informasi dengan tepat, akurat, dan berguna dalam membantu pengambilan keputusan produksi pada PT Anugrah sehingga proses produksi berjalan dengan efektif dan efesien dalam hal biaya dan waktu.
+
+SDLC bisa menjadi acuan perencanaan, estimasi, dan penjadwalan proyek dengan baik. Membantu manajemen proyek. Stakeholder atau klien dapat mengetahui siklus pengembangan software secara transparan. Proses pengembangan software jadi lebih cepat.
+
+TAHAPAN SDLC: 
+
+1.	Requirements Gathering
+Requirements Gathering di dalam SDLC yaitu melakukan analisis requirement untuk menyesuaikan kebutuhan dan scope dari software yang akan dibangun atau dikembangkan. Requirement tersebut dapat berupa dokumen spesifikasi software dari sisi bisnis atau sisi technical/engineering. Pada tahap ini, quality assurance melakukan review terhadap dokumen spesifikasi. Pada fase ini tim QE dapat mengetahui detail software, module, fitur dan fungsi yang akan dibangun, review dan memvalidasi jika masih ada kekurangan dan atau untuk melengkapi kejelasan requirement tersebut, menganalisa apa saja yang dapat diuji (testable) secara manual dan automated serta menganalisa cakupan fungsi atau fitur mana saja yang akan diuji secara functional dan non-functional.
+
+2.	Design
+Pada tahap ini Persiapan tim QE meliputi strategi pengujian, persiapan environtment, test case development dan automation testing development serta mengkonfirmasi design yang sudah disepakati. tim QE mulai melakukan segala perencanaan terkait pengujian software berdasarkan hasil analisis dari tahap pertama (requirement gathering). Pada tahap ini akan menghasilkan test specification yang brisi jenis atau teknik pengujian yang akan dilakukan, tools dan environment yang akan digunakan, estimasi cost (waktu, sumber daya, dll), prosedur dan proses uji, hal-hal yang dapat di-deliver setelah melakukan pengujian serta pembagian tanggung jawab kepada setiap subdivisi dari divisi atau tim QE itu sendiri.
+
+3.	Development Code
+Jika requirement dan specification sudah tersedia, maka tahap selanjutnya adalah development. Tahap ini berisi hal-hal yang akan menjadi acuan dalam pengujian. Hal-hal tersebut yaitu membuat test case, membuat test data, membuat script automation test berdasarkan test case, dan mulai melakukan smoke test utk memastikan environment test apakah sudah benar-benar siap.
+
+
+4.	Testing
+Setelah tim software engineer selesai menulis code, maka testing merupakan kegiatan untuk mengeksekusi pengujian code atau software untuk memastikan kesesuaian (verifikasi dan validasi) antara requirement dan software yang dibangun atau dikembangkan. Pada tahap ini juga tim QE melakukan atau membuat laporan terkait software yang sedang diuji untuk disampaikan kepada tim software engineer dan stakeholder yang membutuhkan. Sehingga dapat mengetahui seberapa jauh kesiapan dan kualitas dari software yang sudah dikembangkan.
+
+5.	Deployment
+Jika software sudah melalui tahap persetujuan termasuk validasi dan verifikasi dari tim QE, product/project manager, dan stakeholder yang terlibat, maka tahap deployment adalah tahap rilis dari software tersebut untuk dapat digunakan user sesuai target dan requirement yang sudah didefinisikan. Secara paralel, tahap maintenance dilakukan tim development dengan melihat perkembangan dari software yang sudah dirilis dan digunakan user.
+Pada tahap ini, tim QE akan melakukan evaluasi terhadap strategi pengujian dan memanajemen defect/bug yang ditemukan setelah rilis. Hal tersebut dilakukan untuk memberikan ukuran dari kualitas software yang sudah rilis pada versi tertentu.
+
+6.	Maintenance
+Untuk tahap maintenance, semua tim melakukan pemeliharan terhadap tanggung jawabnya masing-masing. Misalnya masih ada hal-hal yang perlu diperbaiki, Kemudian tim software engineer melakukan optimasi code untuk memperbaiki performa dari software itu sendiri.
+Sedangkan tim QE melakukan pemeliharan dan evaluasi terhadap kualitas software dan strategi pengujian mendatang serta optimasi code pada tahap automation testing-nya.
+
+*Testing PYRAMID
+Test Pyramid adalah sebuah konsep perkembangan yang bertujuan untuk mempersingkat siklus umpan balik, untuk tim yang baru mulai automated testing harus sering mengkondisikan setiap pengujian yang luas. Setiap pengecekan harus punya banyak test case dalam kondisi waktu yang singkat.
+
+MODEL PENGEMBANGAN SDLC
+Adapun model-model ini antara lain adalah sebagai berikut,
+
+1. Metode waterfall
+Metode waterfall merupakan metodologi SDLC yang terstruktur dan paling tua. Metode ini juga dikenal paling mudah karena dapat dilakukan dengan menyelesaikan satu fase secara total lalu melanjutkan ke dase berikutnya tanpa kembali atau terjadi pengulangan.
+Setiap tahap dalam metode waterfall ini bergantung pada informasi dari tahap sebelumnya dengan rencana proyek sendiri. Metode waterfall secara umum mudah dipahami dan dikelola. Kekurangan dari metode ini umumnya pada efisiensi waktu. Jika terjadi perlambatan atau penundaan di fase awal maka akan dapat membuang seluruh garis waktu dalam proyek. Metode SDLC jenis ini juga kurang fleksibel meski memiliki kelebihan untuk menekan segala risiko pengulangan.
+
+2. V-Shaped model
+V-Shaped merupakan metodologi SDLC yang bertumpu pada validasi atau verifikasi. Metode ini berbentuk V yang dilakukan dengan fase pengujian yang sesuai untuk setiap tahap pengembangan. Metode ini hampir sama seperti metode Waterfall karena baru bisa berganti fase ketika fase sebelumnya telah berakhir. Metode V-shaped amat berguna ketika tidak ada lagi persyaratan yang diperlukan atau tidak diketahui dalam tahapan pengembangan perangkat lunak. Hal ini dikarenakan jika telah berganti tahap maka metode ini tidak memungkinkan pengembang untuk kembali ke tahap sebelumnya.
+
+3. Incremental model
+Incremental model dalam SDLC merupakan model proses pengembangan perangkat lunak di mana persyaratan dibagi menjadi beberapa modul mandiri dari SDLC itu sendiri. Model ini memungkinkan adanya setiap model melewati fase persyaratan, desain, implementasi, dan pengujian. Setiap rilis modul berikutnya terjadi penambahan fungsi ke rilisan sebelumnya. Proses ini terus berlanjut secara simultan sampai semua sistem secara lengkap tercapai.
+
+4. Agile model
+Metode agile dalam SDLC merupakan salah satu yang populer. Metode ini dilakukan dengan memecah produk menjadi beberapa siklus dan lantas dengan cepat memberikan fungsi pada produk. Metodologi ini merupakan pendekatan pengembangan yang lebih realistis dan cepat.
+Metode agile menghasilkan rilisan perangkat lunak yang berkelanjutan yang dapat diperbarui secara bertahap. Metode SDLC jenis ini juga menekankan interaksi antara klien, pengemban, dan tim pengembang karena adanya kans untuk melakukan penyisipan fungsi di tengah proyek. Kekurangan dari metode ini adalah amat bergantung pada klien, sehingga proyek dapat tidak terarah karena klien tidak memiliki tujuan jelas.
+
+5. Iterative model
+Metode iteratif dalam SDLC dilakukan dengan pengulangan karena penerapan serangkaian persyaratan perangkat lunak yang berbeda, baru kemudian dilakukan pengujian. Proses ini dilakukan dengan memproduksi setiap versi dari perangkat lunak dengan setiap fase atau iterasi. Dari sana, kemudian perangkat lunak akan terus dilakukan evaluasi dan pengulangan sampai sistem telah siap dan lengkap.
+Keuntungan metodologi SDLC jenis iteratif ini adalah memberi versi yang berfungsi di awal proses dan membuatnya lebih murah dan mudah dalam proses implementasi atau pembaruan. Namun, salah satu kelemahan dari metode SDLC jenis ini adalah boros sumber daya karena terjadinya pengulangan proses yang berkali-kali.
+
+6. Bigbang model
+Metode bigbang merupakan anomali dalam proses SDLC dikarenakan prosesnya tidak mengikuti proses khusus dan membutuhkan waktu sedikit untuk perencanaan. Sebagian sumber daya untuk metode ini dicurahkan untuk pengembangan dan bahkan klien tidak memiliki kesempatan untuk memahami persyaratan perangkat lunak ini.
+Bigbang merupakan salah satu metode SDLC yang umumnya digunakan untuk proyek kecil dengan hanya satu atau dua insinyur perangkat lunak. Metode SDLC jenis ini tidak direkomendasikan untuk proyek besar dan kompleks. Hal ini dikarenakan adanya risiko tinggi jika persyaratan atau requirements salah dipahami sejak awal. Risiko pengulangan dari awal saat produk telah diproduksi amat besar.
+
+7. Spiral model
+Jika ditanya metode SDLC mana yang paling fleksibel, maka jawabannya adalah metode spiral. Metode ini dilakukan dengan mengambil syarat dari model iteratif dan pengulangannya melewati empat fase berulang seperti dalam “spiral” sampai selesai. Metode ini memungkinkan adanya beberapa putaran penyempurnaan atau pembaruan.
+Metode spiral memungkinkan pengembang untuk membangun produk yang amat disesuaikan dengan umpan balik pengguna, baik sejak awal maupun pertengahan proyek. Risiko dari metode ini adalah terciptanya fase spiral yang tidak pernah berakhir untuk satu proyek atau produk atau terus diperbarui tanpa pernah mencapai kata “selesai” atau final.
