@@ -15,3 +15,4 @@ Task Theory
 6. Apa yang harus dilakukan saat menggunakan tools JIRA jika kita menemukan bugs pada fitur yang sudah dilakukan testing?
 >membuat issue bertipe bugs saat ditemukan ada yang tidak sesuai dengan criteria testing,
 >Memindahkan fitur yang berkaitan dengan bugs ke kolom "in progress"
+

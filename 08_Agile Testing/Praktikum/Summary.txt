@@ -1,0 +1,57 @@
+RESUME 
+AGILE TESTING
+
+1. 	Peran QE pada fase SDLC
+1.	Requirements Gathering
+Requirements Gathering di dalam SDLC yaitu melakukan analisis requirement untuk menyesuaikan kebutuhan dan scope dari software yang akan dibangun atau dikembangkan. Requirement tersebut dapat berupa dokumen spesifikasi software dari sisi bisnis atau sisi technical/engineering. Pada tahap ini, quality assurance melakukan review terhadap dokumen spesifikasi. Pada fase ini tim QE dapat mengetahui detail software, module, fitur dan fungsi yang akan dibangun, review dan memvalidasi jika masih ada kekurangan dan atau untuk melengkapi kejelasan requirement tersebut, menganalisa apa saja yang dapat diuji (testable) secara manual dan automated serta menganalisa cakupan fungsi atau fitur mana saja yang akan diuji secara functional dan non-functional.
+
+2.	Design
+Pada tahap ini Persiapan tim QE meliputi strategi pengujian, persiapan environtment, test case development dan automation testing development serta mengkonfirmasi design yang sudah disepakati. tim QE mulai melakukan segala perencanaan terkait pengujian software berdasarkan hasil analisis dari tahap pertama (requirement gathering). Pada tahap ini akan menghasilkan test specification yang brisi jenis atau teknik pengujian yang akan dilakukan, tools dan environment yang akan digunakan, estimasi cost (waktu, sumber daya, dll), prosedur dan proses uji, hal-hal yang dapat di-deliver setelah melakukan pengujian serta pembagian tanggung jawab kepada setiap subdivisi dari divisi atau tim QE itu sendiri.
+
+3.	Development Code
+Jika requirement dan specification sudah tersedia, maka tahap selanjutnya adalah development. Tahap ini berisi hal-hal yang akan menjadi acuan dalam pengujian. Hal-hal tersebut yaitu membuat test case, membuat test data, membuat script automation test berdasarkan test case, dan mulai melakukan smoke test utk memastikan environment test apakah sudah benar-benar siap.
+
+
+4.	Testing
+Setelah tim software engineer selesai menulis code, maka testing merupakan kegiatan untuk mengeksekusi pengujian code atau software untuk memastikan kesesuaian (verifikasi dan validasi) antara requirement dan software yang dibangun atau dikembangkan. Pada tahap ini juga tim QE melakukan atau membuat laporan terkait software yang sedang diuji untuk disampaikan kepada tim software engineer dan stakeholder yang membutuhkan. Sehingga dapat mengetahui seberapa jauh kesiapan dan kualitas dari software yang sudah dikembangkan.
+
+5.	Deployment
+Jika software sudah melalui tahap persetujuan termasuk validasi dan verifikasi dari tim QE, product/project manager, dan stakeholder yang terlibat, maka tahap deployment adalah tahap rilis dari software tersebut untuk dapat digunakan user sesuai target dan requirement yang sudah didefinisikan. Secara paralel, tahap maintenance dilakukan tim development dengan melihat perkembangan dari software yang sudah dirilis dan digunakan user.
+Pada tahap ini, tim QE akan melakukan evaluasi terhadap strategi pengujian dan memanajemen defect/bug yang ditemukan setelah rilis. Hal tersebut dilakukan untuk memberikan ukuran dari kualitas software yang sudah rilis pada versi tertentu.
+
+6.	Maintenance
+Untuk tahap maintenance, semua tim melakukan pemeliharan terhadap tanggung jawabnya masing-masing. Misalnya masih ada hal-hal yang perlu diperbaiki, Kemudian tim software engineer melakukan optimasi code untuk memperbaiki performa dari software itu sendiri.
+Sedangkan tim QE melakukan pemeliharan dan evaluasi terhadap kualitas software dan strategi pengujian mendatang serta optimasi code pada tahap automation testing-nya.
+
+2.	Tantangan yang dialami dalam penerapan Agile. Hasil temuan penelitian tersebut adalah sebagai berikut:
+(-)Budaya atau nilai perusahaan yang tidak sesuai dengan konsep Agile.
+(-)Kurang berpengalaman dalam menerapkan Agile.
+(-)Kurangnya dukungan dari pihak manajemen.
+(-)Organisasi secara umum menolak perubahan.
+(-)Kurangnya pemilik bisnis atau produk.
+(-)Training Agile yang tidak mencukupi.
+(-)Pengembangan yang masih bersifat tradisional.
+(-)Kurang konsisten dalam menerapkan Agile di organisasi.
+(-)Alat, data, dan pengukuran yang terpotong-potong.
+(-)Kolaborasi yang tidak efektif.
+(-)Kepatuhan terhadap peraturan dan pemerintah.
+
+Dari sebelas faktor tersebut, ada dua faktor yang memiliki porsi paling besar dalam menghambat penerapan Agile yakni budaya perusahaan yang tidak sesuai dengan konsep Agile dan kekurangan keterampilan atau pengalaman dalam menerapkan Agile.
+
+mengubah struktur dan cara bekerja untuk orang banyak pasti membutuhkan waktu dan butuh percobaan untuk menemukan cara yang tepat bagi perusahaan tertentu.
+
+Terdapat lima point dalam testing manifesto, antara lain:
+a. Testing is an ACTIVITY not a phase
+seorang tester akan kewalahan di akhir proses development karena dia harus melakukan full test aplikasi yang belum pernah dia test sebelumnya. Dalam testing manifesto tester dianjurkan untuk melakukan testing secara berkala dengan proses development, jadi tidak terpisah sendiri melainkan jadi satu dengan proses development.
+
+b. Prevent bugs rather than finding bugs.
+untuk mencegah munculnya bug daripada menemukan bug. Mari kita mulai dengan mengetahui bagaimana bug itu muncul. Ada beberapa faktor yang dapat memunculkan bug, diantaranya adalah requirement yang kurang lengkap atau kurang detail. Untuk mengurangi kemunculan bug alangkah baiknya kita tulis dulu seperti apa requirement dari fitur yang akan kita kerjakan sebelum memulai menulis code. Semua itu dapat dilakukan dengan berkomunikasi dengan sesama anggota team untuk benar-benar membangun aplikasi yang berkualitas.
+
+c. Don't be a checker, be a tester
+Sebagai seorang tester, tidaklah cukup jika hanya melakukan testing tanpa adanya improvement / masukan terhadap apa yang test. Jika seorang tester hanya melakukan pengecekan fungsional dan tidak memahami seperti apa kebutuhan user yang akan menggunakan aplikasi maka peran seorang tester akan dipertanyakan ketika semua test sudah otomatis. Disinilah peran tester sebenarnya dibutuhkan, bagaimana dia bisa memberikan feedback terhadap apa yang sedang di test.
+
+d. Don’t try to break the system, instead help build the best possible system
+Di dalam proses testing, seorang QA akan melakukan positif test dan negative test. Mungkin ada beberapa dari kita yang merasa senang jika menemukan bug. Tidak bisa dipungkiri kalau seorang QA mampu memiliki pikiran jahat terkait fitur apa aja yang bisa ia temukan bugnya. Meskipun hal tersebut memiliki sisi menariknya, namun kita harus mengingat tujuan utama dari proses development itu sendiri, yaitu untuk menciptakan product yang berkualitas. Untuk itu seorang QA seharusnya memposisikan dirinya sebagai user, dan menilai product dari prespektif user sehingga dapat memberikan masukan terhadap developer.
+
+e. Team whole team is responsible for quality, not just the tester
+Mengingat tanggung jawab seluruh tim untuk kualitas adalah prinsip dasar Agile. Beban dari kualitas product yang dibangun tidak semestinya dibebankan pada salah satu anggota saja. Misalnya ada bug yang baru ditemukan saat product sudah launcing, tidak semerta-merta tanggung jawab itu dibebankan pada seorang QA yang mungkin tidak teliti atas bug tersebut, bukan juga dengan membebankan developer. Namun setiap anggota tim bertanggung jawab berlandaskan kepemilikan bersama atas product yang dibangun.
