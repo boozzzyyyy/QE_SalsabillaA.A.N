@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Form</title>
+	<link rel="stylesheet" href="">
+</head>
+<body>
+	<div style="width:100%;height:100%;">
+		<h1>Buat Account Baru!</h1>
+		<h2>Sign Up Form</h2>
+		<form action="welcome.html">
+			<div>
+				<label for="first-name">First Name</label><br/>
+				<input type="text" name="first-name" id="first-name">
+			</div>
+			<br/>
+			<div>
+				<label for="last-name">Last Name</label><br/>
+				<input type="text" name="last-name" id="last-name">
+			</div>
+			<br/>
+			<div>
+				<label for="gender">Gender</label><br/>
+				<input type="radio" name="gender" id="gender" value="Male"> <label>Male</label><br/>
+				<input type="radio" name="gender" id="gender" value="Female"> <label>Female</label><br/>
+				<input type="radio" name="gender" id="gender" value="Other"> <label>Other</label>
+			</div>
+			<br/>
+			<div>
+				<label for="nasionality">Nasionality</label><br/>
+				<select>
+					<option value="indonesian">Indonesian</option>
+					<option value="netherland">Netherland</option>
+				</select>
+			</div>
+			<br/>
+			<div>
+				<label for="language-spoken">Language Spoken</label><br/>
+				<input type="checkbox" name="language-spoken" id="language-spoken" value="Bahasa Indonesia"> <label>Bahasa Indonesia</label><br/>
+				<input type="checkbox" name="language-spoken" id="language-spoken" value="English"> <label>English</label><br/>
+				<input type="checkbox" name="language-spoken" id="language-spoken" value="Other"> <label>Other</label>
+			</div>
+			<br/>
+			<div>
+				<label for="bio">Bio</label><br/>
+				<textarea name="bio" id="bio" rows="10" cols="35"></textarea>
+			</div>
+			<button type="submit">Sign Up</button>
+		</form>
+	</div>
+</body>
+</html>
