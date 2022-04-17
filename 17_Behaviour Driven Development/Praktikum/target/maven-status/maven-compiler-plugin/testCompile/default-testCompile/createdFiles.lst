@@ -1,0 +1,11 @@
+starter\givecomment\GiveComment.class
+starter\uploadpost\UploadPost.class
+starter\likepost\LikePost.class
+starter\login\Login.class
+starter\stepdefinitions\LikePostSteps.class
+starter\stepdefinitions\LoginSteps.class
+starter\stepdefinitions\UploadPostSteps.class
+starter\stepdefinitions\CucumberTestSuite.class
+starter\requestconnection\RequestConnection.class
+starter\stepdefinitions\RequestConnectionSteps.class
+starter\stepdefinitions\GiveCommentSteps.class
