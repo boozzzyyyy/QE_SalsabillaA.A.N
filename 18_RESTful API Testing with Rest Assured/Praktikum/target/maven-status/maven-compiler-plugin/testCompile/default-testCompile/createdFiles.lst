@@ -1,0 +1,9 @@
+starter\stepdefinitions\CreateUserSteps.class
+starter\user\Create.class
+starter\stepdefinitions\ListBookSteps.class
+starter\stepdefinitions\DetailBookSteps.class
+starter\book\Detail.class
+starter\book\List.class
+starter\stepdefinitions\GenerateTokenUserSteps.class
+starter\stepdefinitions\CucumberTestSuite.class
+starter\user\GenerateToken.class

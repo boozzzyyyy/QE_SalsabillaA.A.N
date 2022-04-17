@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"CreateUser","GET - As an Admin I have be able to create new user","SUCCESS","2022-04-12T08:30:05.687+07:00[Asia/Bangkok]","0.0","5.55"
+"DetailBook","GET - As an Admin I have be able to get detail of book","SUCCESS","2022-04-12T08:30:11.255+07:00[Asia/Bangkok]","0.0","1.3"
+"GenerateTokenUser","GET - As an Admin I have be able to generate token for specific user","SUCCESS","2022-04-12T08:30:12.573+07:00[Asia/Bangkok]","0.0","1.32"
+"ListBook","GET - As an Admin I have be able to get list of book","SUCCESS","2022-04-12T08:30:13.907+07:00[Asia/Bangkok]","0.0","1.31"
