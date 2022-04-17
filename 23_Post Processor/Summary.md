@@ -1,5 +1,5 @@
 RESUME
-Fundamental Performance Test
+Post Processor
 
 Performance Test merupakan teknik non functional testing untuk menentukan parameter sistem dalam hal responsif dan stabilitas di bawah berbagai beban (load) kerja. Performance Test berfungsi untuk mengukur kualitas atribut dari sistem seperti stabilitas, ketahanan 
 (reliability) , dan penggunaan sumber daya.
