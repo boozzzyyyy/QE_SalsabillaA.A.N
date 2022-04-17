@@ -1,0 +1,9 @@
+starter\pages\ProfilePage.class
+starter\pages\LogoutPage.class
+starter\stepdefinitions\LoginSteps.class
+starter\pages\SearchPage.class
+starter\pages\LoginPage.class
+starter\stepdefinitions\ProfileSteps.class
+starter\stepdefinitions\CucumberTestSuite.class
+starter\stepdefinitions\LogoutSteps.class
+starter\stepdefinitions\SearchSteps.class

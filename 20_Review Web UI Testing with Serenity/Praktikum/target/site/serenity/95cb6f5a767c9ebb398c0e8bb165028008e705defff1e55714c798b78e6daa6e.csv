@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Login","As user i able to be succesfully login","SUCCESS","2022-04-11T20:20:27.652+07:00[Asia/Bangkok]","0.0","0.8"
+"Logout","As user i able to be succesfully logout","SUCCESS","2022-04-11T20:20:28.481+07:00[Asia/Bangkok]","0.0","0.14"
+"Profile","As user i able to be succesfully see profile page","SUCCESS","2022-04-11T20:20:28.646+07:00[Asia/Bangkok]","0.0","0.08"
+"Search","As user i able to be succesfully search a book","SUCCESS","2022-04-11T20:20:28.75+07:00[Asia/Bangkok]","0.0","0.16"
