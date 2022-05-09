@@ -1,0 +1,11 @@
+starter\Category\Create.class
+starter\User\Login.class
+starter\stepdefinitions\CreateProductSteps.class
+starter\stepdefinitions\GetAllCategorySteps.class
+starter\stepdefinitions\LoginUserSteps.class
+starter\Product\Create.class
+starter\stepdefinitions\GetAllProductSteps.class
+starter\Product\GetAll.class
+starter\stepdefinitions\CucumberTestSuite.class
+starter\Category\GetAll.class
+starter\stepdefinitions\CreateCategorySteps.class

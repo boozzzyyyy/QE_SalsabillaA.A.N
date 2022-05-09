@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"CreateCategory","POST - As an Admin I have be able to add new category for product","SUCCESS","2022-04-27T16:42:23.048+07:00[Asia/Bangkok]","0.0","3.81"
+"CreateProduct","POST - As an Admin I have be able to add new product","SUCCESS","2022-04-27T16:42:26.88+07:00[Asia/Bangkok]","0.0","0.41"
+"GetAllCategory","GET - As an Admin I have be able to get all data category","SUCCESS","2022-04-27T16:42:27.307+07:00[Asia/Bangkok]","0.0","0.41"
+"GetAllProduct","GET - As an Admin I have be able to get all data product","SUCCESS","2022-04-27T16:42:27.724+07:00[Asia/Bangkok]","0.0","0.46"
+"LoginUser","POST - As an Admin I have be able to login","SUCCESS","2022-04-27T16:42:28.197+07:00[Asia/Bangkok]","0.0","0.3"
