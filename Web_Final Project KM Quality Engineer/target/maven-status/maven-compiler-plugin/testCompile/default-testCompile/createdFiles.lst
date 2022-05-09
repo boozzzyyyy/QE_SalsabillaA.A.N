@@ -1,0 +1,11 @@
+starter\Pages\LogoutPage.class
+starter\Pages\RegisterPage.class
+starter\stepdefinitions\LoginSteps.class
+starter\Pages\LoginPage.class
+starter\stepdefinitions\OrderCheckEmptySteps.class
+starter\stepdefinitions\CucumberTestSuite.class
+starter\Pages\HomePage.class
+starter\stepdefinitions\LogoutSteps.class
+starter\stepdefinitions\RegisterSteps.class
+starter\Pages\OrderPage.class
+starter\stepdefinitions\OrderCheckNotEmptySteps.class
