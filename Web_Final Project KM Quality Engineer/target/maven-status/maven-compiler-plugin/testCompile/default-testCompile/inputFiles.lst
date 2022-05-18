@@ -1,11 +1,11 @@
-C:\Users\REXA\IdeaProjects\FinalProjectKMQualityEngineerWeb\src\test\java\starter\Pages\RegisterPage.java
-C:\Users\REXA\IdeaProjects\FinalProjectKMQualityEngineerWeb\src\test\java\starter\stepdefinitions\RegisterSteps.java
-C:\Users\REXA\IdeaProjects\FinalProjectKMQualityEngineerWeb\src\test\java\starter\Pages\LoginPage.java
-C:\Users\REXA\IdeaProjects\FinalProjectKMQualityEngineerWeb\src\test\java\starter\stepdefinitions\OrderCheckEmptySteps.java
-C:\Users\REXA\IdeaProjects\FinalProjectKMQualityEngineerWeb\src\test\java\starter\stepdefinitions\LoginSteps.java
-C:\Users\REXA\IdeaProjects\FinalProjectKMQualityEngineerWeb\src\test\java\starter\Pages\LogoutPage.java
-C:\Users\REXA\IdeaProjects\FinalProjectKMQualityEngineerWeb\src\test\java\starter\Pages\OrderPage.java
-C:\Users\REXA\IdeaProjects\FinalProjectKMQualityEngineerWeb\src\test\java\starter\stepdefinitions\CucumberTestSuite.java
-C:\Users\REXA\IdeaProjects\FinalProjectKMQualityEngineerWeb\src\test\java\starter\stepdefinitions\OrderCheckNotEmptySteps.java
-C:\Users\REXA\IdeaProjects\FinalProjectKMQualityEngineerWeb\src\test\java\starter\Pages\HomePage.java
-C:\Users\REXA\IdeaProjects\FinalProjectKMQualityEngineerWeb\src\test\java\starter\stepdefinitions\LogoutSteps.java
+D:\QE_SalsabillaA.A.N\Web_Final Project KM Quality Engineer\src\test\java\starter\Pages\OrderPage.java
+D:\QE_SalsabillaA.A.N\Web_Final Project KM Quality Engineer\src\test\java\starter\stepdefinitions\RegisterSteps.java
+D:\QE_SalsabillaA.A.N\Web_Final Project KM Quality Engineer\src\test\java\starter\Pages\HomePage.java
+D:\QE_SalsabillaA.A.N\Web_Final Project KM Quality Engineer\src\test\java\starter\stepdefinitions\LogoutSteps.java
+D:\QE_SalsabillaA.A.N\Web_Final Project KM Quality Engineer\src\test\java\starter\Pages\RegisterPage.java
+D:\QE_SalsabillaA.A.N\Web_Final Project KM Quality Engineer\src\test\java\starter\stepdefinitions\CucumberTestSuite.java
+D:\QE_SalsabillaA.A.N\Web_Final Project KM Quality Engineer\src\test\java\starter\Pages\LogoutPage.java
+D:\QE_SalsabillaA.A.N\Web_Final Project KM Quality Engineer\src\test\java\starter\stepdefinitions\OrderCheckEmptySteps.java
+D:\QE_SalsabillaA.A.N\Web_Final Project KM Quality Engineer\src\test\java\starter\Pages\LoginPage.java
+D:\QE_SalsabillaA.A.N\Web_Final Project KM Quality Engineer\src\test\java\starter\stepdefinitions\LoginSteps.java
+D:\QE_SalsabillaA.A.N\Web_Final Project KM Quality Engineer\src\test\java\starter\stepdefinitions\OrderCheckNotEmptySteps.java

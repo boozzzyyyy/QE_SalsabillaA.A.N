@@ -1,11 +1,13 @@
-C:\Users\REXA\IdeaProjects\FinalProjectKMQualityEngineerRESTAPI\src\test\java\starter\Category\GetAll.java
-C:\Users\REXA\IdeaProjects\FinalProjectKMQualityEngineerRESTAPI\src\test\java\starter\stepdefinitions\CreateCategorySteps.java
-C:\Users\REXA\IdeaProjects\FinalProjectKMQualityEngineerRESTAPI\src\test\java\starter\stepdefinitions\GetAllProductSteps.java
-C:\Users\REXA\IdeaProjects\FinalProjectKMQualityEngineerRESTAPI\src\test\java\starter\stepdefinitions\GetAllCategorySteps.java
-C:\Users\REXA\IdeaProjects\FinalProjectKMQualityEngineerRESTAPI\src\test\java\starter\Product\GetAll.java
-C:\Users\REXA\IdeaProjects\FinalProjectKMQualityEngineerRESTAPI\src\test\java\starter\Product\Create.java
-C:\Users\REXA\IdeaProjects\FinalProjectKMQualityEngineerRESTAPI\src\test\java\starter\User\Login.java
-C:\Users\REXA\IdeaProjects\FinalProjectKMQualityEngineerRESTAPI\src\test\java\starter\stepdefinitions\CreateProductSteps.java
-C:\Users\REXA\IdeaProjects\FinalProjectKMQualityEngineerRESTAPI\src\test\java\starter\stepdefinitions\CucumberTestSuite.java
-C:\Users\REXA\IdeaProjects\FinalProjectKMQualityEngineerRESTAPI\src\test\java\starter\Category\Create.java
-C:\Users\REXA\IdeaProjects\FinalProjectKMQualityEngineerRESTAPI\src\test\java\starter\stepdefinitions\LoginUserSteps.java
+D:\QE_SalsabillaA.A.N\REST API_Final Project KM Quality Engineer\src\test\java\starter\stepdefinitions\CucumberTestSuite.java
+D:\QE_SalsabillaA.A.N\REST API_Final Project KM Quality Engineer\src\test\java\starter\stepdefinitions\GetAllProductSteps.java
+D:\QE_SalsabillaA.A.N\REST API_Final Project KM Quality Engineer\src\test\java\starter\Category\Create.java
+D:\QE_SalsabillaA.A.N\REST API_Final Project KM Quality Engineer\src\test\java\starter\stepdefinitions\GetDetailsProductSteps.java
+D:\QE_SalsabillaA.A.N\REST API_Final Project KM Quality Engineer\src\test\java\starter\Category\GetAll.java
+D:\QE_SalsabillaA.A.N\REST API_Final Project KM Quality Engineer\src\test\java\starter\Product\GetAll.java
+D:\QE_SalsabillaA.A.N\REST API_Final Project KM Quality Engineer\src\test\java\starter\Product\GetDetails.java
+D:\QE_SalsabillaA.A.N\REST API_Final Project KM Quality Engineer\src\test\java\starter\stepdefinitions\GetAllCategorySteps.java
+D:\QE_SalsabillaA.A.N\REST API_Final Project KM Quality Engineer\src\test\java\starter\stepdefinitions\CreateCategorySteps.java
+D:\QE_SalsabillaA.A.N\REST API_Final Project KM Quality Engineer\src\test\java\starter\stepdefinitions\CreateProductSteps.java
+D:\QE_SalsabillaA.A.N\REST API_Final Project KM Quality Engineer\src\test\java\starter\Product\Create.java
+D:\QE_SalsabillaA.A.N\REST API_Final Project KM Quality Engineer\src\test\java\starter\User\Login.java
+D:\QE_SalsabillaA.A.N\REST API_Final Project KM Quality Engineer\src\test\java\starter\stepdefinitions\LoginUserSteps.java
