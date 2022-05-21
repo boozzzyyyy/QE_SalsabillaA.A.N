@@ -1,0 +1,5 @@
+test\alta\pageobject\BasePageObject.class
+test\alta\pages\LoginScreen.class
+test\alta\stepdefinitions\LoginSteps.class
+CucumberTestSuite.class
+test\alta\hooks\BaseDriverHooks.class
